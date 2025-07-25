@@ -19,5 +19,5 @@ namespace Proyecto_base_de_datos_Vehiculos
         public int Modelo1 { get => Modelo; set => Modelo = value; }
         public string Color { get => color; set => color = value; }
         public string PrecioKm1 { get => PrecioKm; set => PrecioKm = value; }
-    }
+    } !!!!!!!!!
 }
